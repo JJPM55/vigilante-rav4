@@ -1,0 +1,7 @@
+# SOLO PARA PRUEBAS (se usa con --enchufables).
+# Mismos concesionarios, pero buscando el modelo "RAV4 PHEV" (híbrido enchufable), sin filtrar por año,
+# para que haya coches reales con los que comprobar que el script y el email funcionan.
+
+Ippon Motor | https://www.toyota.es/concesionarios/ipponmotor/coches-segunda-mano?location=dealerGroupId:00CD0-E9EAD-17A83-7D800-01350-3&brands=38&model=RE
+Starbaix | https://www.toyota.es/concesionarios/starbaix/coches-segunda-mano?location=dealerGroupId:ea617853-727c-4d15-850b-abfd6dee1f0f&brands=38&model=RE
+Ballus | https://www.toyota.es/concesionarios/ballus/coches-segunda-mano?location=dealerGroupId:00CD0-E9EAD-18750-E0E00-01260-3&brands=38&model=RE

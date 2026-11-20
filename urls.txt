@@ -1,0 +1,7 @@
+# Una web por línea. Formato:  Nombre | URL      (o solo la URL)
+# Las líneas que empiezan por # se ignoran.
+# Pega aquí la URL del listado ya filtrado (Toyota + RAV4 + año 2026).
+
+Ippon Motor | https://www.toyota.es/concesionarios/ipponmotor/coches-segunda-mano?location=dealerGroupId:00CD0-E9EAD-17A83-7D800-01350-3&brands=38&model=RA&year=2026-2026
+Starbaix | https://www.toyota.es/concesionarios/starbaix/coches-segunda-mano?location=dealerGroupId:ea617853-727c-4d15-850b-abfd6dee1f0f&brands=38&model=RA&year=2026-2026
+Ballus | https://www.toyota.es/concesionarios/ballus/coches-segunda-mano?location=dealerGroupId:00CD0-E9EAD-18750-E0E00-01260-3&brands=38&model=RA&year=2026-2026
